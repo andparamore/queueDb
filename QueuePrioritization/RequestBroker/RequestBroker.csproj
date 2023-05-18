@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\QueueApi\QueueApi.csproj" />
+      <ProjectReference Include="..\QueueBuilder\QueueBuilder.csproj" />
+      <ProjectReference Include="..\QueueInfrastructure\QueueInfrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

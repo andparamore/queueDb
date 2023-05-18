@@ -1,0 +1,15 @@
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\bin\Debug\net6.0\QueuePrioritizationConsoleUpdate.exe
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\bin\Debug\net6.0\QueuePrioritizationConsoleUpdate.deps.json
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\bin\Debug\net6.0\QueuePrioritizationConsoleUpdate.runtimeconfig.json
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\bin\Debug\net6.0\QueuePrioritizationConsoleUpdate.dll
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\bin\Debug\net6.0\QueuePrioritizationConsoleUpdate.pdb
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.csproj.AssemblyReference.cache
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.AssemblyInfoInputs.cache
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.AssemblyInfo.cs
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.csproj.CoreCompileInputs.cache
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.dll
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\refint\QueuePrioritizationConsoleUpdate.dll
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.pdb
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\QueuePrioritizationConsoleUpdate.genruntimeconfig.cache
+D:\Projects\QueuePrioritization\QueuePrioritizationConsoleUpdate\obj\Debug\net6.0\ref\QueuePrioritizationConsoleUpdate.dll

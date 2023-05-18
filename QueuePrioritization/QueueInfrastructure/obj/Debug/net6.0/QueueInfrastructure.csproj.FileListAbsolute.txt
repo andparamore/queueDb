@@ -1,0 +1,12 @@
+D:\Projects\QueuePrioritization\QueueInfrastructure\bin\Debug\net6.0\QueueInfrastructure.deps.json
+D:\Projects\QueuePrioritization\QueueInfrastructure\bin\Debug\net6.0\QueueInfrastructure.dll
+D:\Projects\QueuePrioritization\QueueInfrastructure\bin\Debug\net6.0\QueueInfrastructure.pdb
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.csproj.AssemblyReference.cache
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.AssemblyInfoInputs.cache
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.AssemblyInfo.cs
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.dll
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\refint\QueueInfrastructure.dll
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\QueueInfrastructure.pdb
+D:\Projects\QueuePrioritization\QueueInfrastructure\obj\Debug\net6.0\ref\QueueInfrastructure.dll

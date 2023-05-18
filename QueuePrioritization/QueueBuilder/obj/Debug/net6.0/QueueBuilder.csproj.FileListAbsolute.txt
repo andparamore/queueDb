@@ -1,0 +1,17 @@
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\QueueBuilder.deps.json
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\QueueBuilder.dll
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\QueueBuilder.pdb
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\QueueInfrastructure.dll
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\QueueInfrastructure.pdb
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.csproj.AssemblyReference.cache
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.AssemblyInfoInputs.cache
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.AssemblyInfo.cs
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.csproj.CopyComplete
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.dll
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\refint\QueueBuilder.dll
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\QueueBuilder.pdb
+D:\Projects\QueuePrioritization\QueueBuilder\obj\Debug\net6.0\ref\QueueBuilder.dll
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\QueuePrioritization\QueueBuilder\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll

@@ -1,0 +1,15 @@
+D:\Projects\QueuePrioritization\QueueApi\bin\Debug\net6.0\QueueApi.deps.json
+D:\Projects\QueuePrioritization\QueueApi\bin\Debug\net6.0\QueueApi.dll
+D:\Projects\QueuePrioritization\QueueApi\bin\Debug\net6.0\QueueApi.pdb
+D:\Projects\QueuePrioritization\QueueApi\bin\Debug\net6.0\QueueInfrastructure.dll
+D:\Projects\QueuePrioritization\QueueApi\bin\Debug\net6.0\QueueInfrastructure.pdb
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.csproj.AssemblyReference.cache
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.AssemblyInfoInputs.cache
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.AssemblyInfo.cs
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.csproj.CoreCompileInputs.cache
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.csproj.CopyComplete
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.dll
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\refint\QueueApi.dll
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\QueueApi.pdb
+D:\Projects\QueuePrioritization\QueueApi\obj\Debug\net6.0\ref\QueueApi.dll
