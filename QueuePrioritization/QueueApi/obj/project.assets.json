@@ -677,23 +677,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andre\\.nuget\\packages\\": {},
-    "D:\\Visual Studio 2022\\Shared\\NuGetPackages": {}
+    "C:\\Users\\andrey.nesterov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueApi\\QueueApi.csproj",
+      "projectUniqueName": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueApi\\QueueApi.csproj",
       "projectName": "QueueApi",
-      "projectPath": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueApi\\QueueApi.csproj",
-      "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueApi\\obj\\",
+      "projectPath": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueApi\\QueueApi.csproj",
+      "packagesPath": "C:\\Users\\andrey.nesterov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Visual Studio 2022\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andrey.nesterov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -709,8 +709,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {
-              "projectPath": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj"
+            "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {
+              "projectPath": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj"
             }
           }
         }
@@ -740,7 +740,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

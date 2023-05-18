@@ -45,7 +45,6 @@ public class ControllerHandler : IControllerHandler
             while (timer.Elapsed <= timeSpan)
             {
                 await _processingService.ProcessAsync();
-                Console.WriteLine(timer.Elapsed);
                 count++;
             }
             return count;
@@ -60,6 +59,33 @@ public class ControllerHandler : IControllerHandler
             timer.Stop();
         }
     }
+    
+    public async Task ParallelHandlingMultipleRequests(int loopsCount)
+    {
+        var timer = new Stopwatch();
+
+        try
+        {
+            timer.Start();
+
+            async void Body(int i)
+            {
+                await _processingService.ProcessAsync();
+            }
+
+            await Task.Run(() => Parallel.For(0, loopsCount, Body));
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
+        }
+        finally
+        {
+            timer.Stop();
+        }
+    }
+
 
     public async Task AddRequest(RequestDto requestDto)
     {
@@ -84,5 +110,10 @@ public class ControllerHandler : IControllerHandler
     public async Task AddRequestType(RequestTypeConfigurationModel requestTypeConfigurationModel)
     {
         await _configurationHandler.AddRequestType(requestTypeConfigurationModel);
+    }
+
+    public async Task<IEnumerable<RequestModelView>> GetPendingRequests()
+    {
+        return await _apiHandler.GetPendingRequests();
     }
 }

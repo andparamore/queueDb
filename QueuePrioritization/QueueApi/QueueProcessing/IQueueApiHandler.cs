@@ -11,4 +11,6 @@ public interface IQueueApiHandler
     Task<IEnumerable<RequestModel>> GetAllRequests();
     
     Task ExpiryDateCheck();
+    
+    Task<IEnumerable<RequestModelView>> GetPendingRequests();
 }

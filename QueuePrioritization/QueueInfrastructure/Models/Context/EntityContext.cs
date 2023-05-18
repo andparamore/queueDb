@@ -17,7 +17,6 @@ public sealed class EntityContext : DbContext
 
     public EntityContext(DbContextOptions<EntityContext> options) : base(options)
     {
-        Database.EnsureCreated();
     }
     
     protected override void OnModelCreating(ModelBuilder modelBuilder)

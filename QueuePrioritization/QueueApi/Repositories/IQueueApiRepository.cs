@@ -15,4 +15,6 @@ public interface IQueueApiRepository
     Task UpdateRequest(RequestModel requestModel);
     
     Task ExpiryDateCheck();
+    
+    Task<IEnumerable<RequestModelView>> GetPendingRequest();
 }

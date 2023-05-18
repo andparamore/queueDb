@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {}
+    "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {
+    "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj",
         "projectName": "QueueInfrastructure",
-        "projectPath": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj",
-        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\obj\\",
+        "projectPath": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\QueueInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\andrey.nesterov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andrey.nesterov\\Desktop\\projects\\queueDb\\QueuePrioritization\\QueueInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio 2022\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andrey.nesterov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

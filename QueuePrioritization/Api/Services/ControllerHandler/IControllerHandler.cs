@@ -10,6 +10,8 @@ public interface IControllerHandler
 
     Task<int> HandlingMultipleRequests(int timeSpan);
 
+    Task ParallelHandlingMultipleRequests(int loopsCount);
+
     Task AddRequest(RequestDto requestDto);
 
     Task UpdatePriorityRequest(WeightUpdateDto dto);
@@ -19,4 +21,6 @@ public interface IControllerHandler
     Task<IEnumerable<RequestTypeConfiguration>> GetTypesConfiguration();
     
     Task AddRequestType(RequestTypeConfigurationModel requestTypeConfigurationModel);
+    
+    Task<IEnumerable<RequestModelView>> GetPendingRequests();
 }

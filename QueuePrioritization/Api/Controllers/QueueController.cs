@@ -13,6 +13,11 @@ public class QueueController : Controller
     [HttpGet("requests")]
     public async Task<List<RequestModel>> GetRequests([FromServices] IControllerHandler handler) =>
         (await handler.GetRequests()).ToList();
+    
+    [HttpGet("pending_requests")]
+    public async Task<List<RequestModelView>> GetPendingRequests([FromServices] IControllerHandler handler) =>
+        (await handler.GetPendingRequests()).ToList();
+
 
     [HttpPost("requests")]
     public async Task AddRequest(
@@ -33,6 +38,10 @@ public class QueueController : Controller
     [HttpGet("process/{minutes}")]
     public async Task<int> HandleRequests([FromServices] IControllerHandler handler, int minutes) =>
         await handler.HandlingMultipleRequests(minutes);
+    
+    [HttpGet("parallel_process/{loopsCount}")]
+    public async Task ParallelHandleRequests([FromServices] IControllerHandler handler, int loopsCount) =>
+        await handler.ParallelHandlingMultipleRequests(loopsCount);
     
     [HttpGet("types")]
     public async Task<List<RequestTypeConfiguration>> GetTypesConfiguration([FromServices] IControllerHandler handler) =>

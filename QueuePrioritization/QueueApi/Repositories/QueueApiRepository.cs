@@ -103,4 +103,14 @@ public class QueueApiRepository : IQueueApiRepository
             throw new InvalidOperationException("Слишком долгое ожидание");
         }
     }
+
+    public async Task<IEnumerable<RequestModelView>> GetPendingRequest()
+    {
+        await using var ctx = await _ctxFactory.CreateDbContextAsync();
+        
+        return await ctx.RequestModelsView
+            .AsNoTracking()
+            .Where(x => x.Status == Status.Pending)
+            .ToListAsync();
+    }
 }

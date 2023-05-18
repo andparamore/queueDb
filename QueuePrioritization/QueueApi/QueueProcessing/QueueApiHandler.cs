@@ -46,6 +46,11 @@ public class QueueApiHandler : IQueueApiHandler
         
     }
 
+    public async Task<IEnumerable<RequestModelView>> GetPendingRequests()
+    {
+        return await _repository.GetPendingRequest();
+    }
+
     /*
     
     private async Task ErrorHandling()

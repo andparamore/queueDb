@@ -9,11 +9,9 @@
     <ItemGroup>
       <ProjectReference Include="..\QueueInfrastructure\QueueInfrastructure.csproj" />
     </ItemGroup>
-
+    
     <ItemGroup>
-      <Reference Include="Microsoft.Extensions.Hosting.Abstractions">
-        <HintPath>C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.9\Microsoft.Extensions.Hosting.Abstractions.dll</HintPath>
-      </Reference>
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
     </ItemGroup>
 
 </Project>

@@ -22,11 +22,10 @@ public class TimedHostedService : IHostedService, IDisposable
 
     public async Task StartAsync(CancellationToken stoppingToken)
     {
-        
         _logger.LogInformation("Timed Hosted Service running.");
-
-        _timer = new Timer(DoWork, null, TimeSpan.Zero,
-            TimeSpan.FromMilliseconds(50));
+        
+        _timer = new Timer(DoWork, null, new TimeSpan(0,0,10),
+            TimeSpan.FromMilliseconds(100));
     }
 
     private async void DoWork(object? state)
